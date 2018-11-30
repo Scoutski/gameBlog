@@ -1,13 +1,6 @@
-# Game dev blog
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-## Dialog systems
-
-### 30/11/2018 @ 3:21pm
-
-One of the first things I wanted to try add some complexity to was the dialog system.
-
-## Hello world
-
-### 30/11/2018 @ 3:20pm
-
-Hello world entry.
+layout: home
+---
